@@ -1,4 +1,4 @@
-
+https://wakatime.com/badge/github/MikeTX56/ML-A-to-Z.svg
 # **Machine Learning A-to-Z**
 
 This repository documents a complete, hands-on journey through machine
