@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="90941d2f-23c7-4fb6-a6b5-a9804b789f59" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/projects/classification/heart_disease_prediction/data/6.1 heart-disease.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/classification/heart_disease_prediction/notebook/end_to_end.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/data_exploration /notebooks/EDA.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/end_to_end.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/data_exploration /notebooks/exploration.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/linear_regression/house_price_prediction/notebook/housing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/projects/linear_regression/house_price_prediction/notebook/housing.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MikeTX56"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MikeTX56/ML-A-to-Z.git",
+    "accountId": "a4029b1a-af90-4f2b-8940-784b3db496b9"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="38U1VA4krnQ0Nno8MxAryXDnGKp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.26830.99" />
+        <option value="bundled-python-sdk-164cda30dcd9-0af03a5fa574-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26830.99" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90941d2f-23c7-4fb6-a6b5-a9804b789f59" name="Changes" comment="" />
+      <created>1768839399709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768839399709</updated>
+      <workItem from="1768839438588" duration="79000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
