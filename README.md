@@ -17,11 +17,15 @@ theoretical sides of machine learning.
     ├── projects/
     │   ├── classification/
     │   │   ├── churn_prediction/
+    |   |   ├── crdit_card_detection/
     │   │   ├── heart_disease_prediction/
-    │   │   └── spam_detection/
+    |   |   ├── iris_classification/
+    │   │   ├── spam_detection/
+    |   |   └── titanic_survivors/
     │   │
     │   └── linear_regression/
     │       ├── bike_sharing/
+    |       ├── car_price_predition/
     │       └── house_price_prediction/
     │
     ├── math/
