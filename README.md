@@ -20,6 +20,7 @@ theoretical sides of machine learning.
     |   |   ├── crdit_card_detection/
     │   │   ├── heart_disease_prediction/
     |   |   ├── iris_classification/
+    |   |   ├── mnist_classfication/
     │   │   ├── spam_detection/
     |   |   └── titanic_survivors/
     │   │
